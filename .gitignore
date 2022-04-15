@@ -1,0 +1,5 @@
+.vscode/*
+model/*
+__pycache__
+model.json
+.DS_Store
